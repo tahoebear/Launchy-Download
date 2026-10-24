@@ -1,0 +1,59 @@
+{
+ "launchySetup": 1,
+ "glass": {
+  "transitionMs": {
+   "i": 450
+  },
+  "idleMinutes": {
+   "i": 5
+  },
+  "perfMode": {
+   "s": "balanced"
+  },
+  "topScale": {
+   "f": 1.2999999523162842
+  },
+  "cwLead": {
+   "i": 0
+  },
+  "galleryShots": {
+   "i": 2
+  },
+  "refraction": {
+   "i": 6
+  },
+  "synopsisLines": {
+   "i": 2
+  },
+  "imageQuality": {
+   "s": "max"
+  },
+  "channelRows": {
+   "s": "com.google.android.youtube.tv/Recommended for you"
+  },
+  "saverMode": {
+   "s": "aerial"
+  },
+  "leadCatalog": {
+   "s": ""
+  },
+  "prefetchDepth": {
+   "i": 4
+  },
+  "dotsMode": {
+   "s": "window"
+  },
+  "continueMode": {
+   "s": "mixed"
+  },
+  "heroGallery": {
+   "b": true
+  },
+  "shuffle": {
+   "b": true
+  },
+  "heroIntervalSec": {
+   "i": 8
+  }
+ }
+}
