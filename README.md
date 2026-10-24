@@ -3,7 +3,9 @@
 The finished Launchy app for Android TV, ready to install. No code or settings live here.
 
 **Install on a TV with Downloader:** type
-`github.com/tahoebear/Launcy-Shelf/releases/latest/download/Launchy.apk`
+`github.com/tahoebear/Launchy-Download/releases/latest/download/Launchy.apk`
+
+Or use the Downloader code **2061278**.
 
 After that, Launchy updates itself.
 
