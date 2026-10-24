@@ -5,7 +5,6 @@
       "package": "com.nuvio.livetv",
       "about": "Movies, shows and live TV; Launchy's Play button opens it",
       "github": "homelessbrian/NuvioPlusIPTV",
-      "apk": "universal",
       "prerelease": true
     },
     {
