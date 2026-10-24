@@ -11,6 +11,12 @@
       "package": "com.google.android.youtube.tv",
       "about": "Its rows show up in Launchy's Browse",
       "playStore": true
+    },
+    {
+      "name": "AnyDesk",
+      "package": "com.anydesk.anydeskandroid",
+      "about": "Lets a friend help with this TV from far away (you accept each time)",
+      "playStore": true
     }
   ]
 }
