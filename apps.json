@@ -8,9 +8,9 @@
       "prerelease": true
     },
     {
-      "name": "AnyDesk",
-      "package": "com.anydesk.anydeskandroid",
-      "about": "Lets a friend help with this TV from far away (you accept each time)",
+      "name": "TeamViewer QuickSupport",
+      "package": "com.teamviewer.quicksupport.market",
+      "about": "Lets a friend help with this TV from far away (you allow each time)",
       "playStore": true
     }
   ]
