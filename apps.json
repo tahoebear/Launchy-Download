@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "Spotify",
+      "package": "com.spotify.tv.android",
+      "about": "Music, with Now playing on the Launchy home screen",
+      "playStore": true
+    },
+    {
+      "name": "YouTube",
+      "package": "com.google.android.youtube.tv",
+      "about": "Its rows show up in Launchy's Browse",
+      "playStore": true
+    }
+  ]
+}
