@@ -1,6 +1,14 @@
 {
   "apps": [
     {
+      "name": "Nuvio + IPTV",
+      "package": "com.nuvio.livetv",
+      "about": "Movies, shows and live TV; Launchy's Play button opens it",
+      "github": "homelessbrian/NuvioPlusIPTV",
+      "apk": "universal",
+      "prerelease": true
+    },
+    {
       "name": "Spotify",
       "package": "com.spotify.tv.android",
       "about": "Music, with Now playing on the Launchy home screen",
